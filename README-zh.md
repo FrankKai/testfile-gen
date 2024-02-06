@@ -10,7 +10,7 @@
 ## 安装
 
 ```js
-yarn add -D testfile-gen
+npm install -g testfile-gen
 ```
 
 ## 使用

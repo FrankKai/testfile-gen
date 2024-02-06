@@ -10,7 +10,7 @@ When there is a need for file uploads, constraints on file size and file type ar
 ## Install
 
 ```js
-yarn add -D testfile-gen
+npm install -g testfile-gen
 ```
 
 ## Usage
